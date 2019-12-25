@@ -1,2 +1,2 @@
 # Leetcode
-Leetcode questions including premium features
+Leetcode questions sorted by frequency of last 6 months as on Dec 26,2019.
